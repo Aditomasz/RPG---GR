@@ -5,7 +5,7 @@
 #include "player.h" // Nasz biblioteka gracza
 
 
-player mainPlayer("Kadisz"); // Inicjalizacja objektu player, argumentem jest jego nick (mozna zrobic tez pusta inicjalizacje).
+player mainPlayer("Nani?") // Inicjalizacja objektu player, argumentem jest jego nick (mozna zrobic tez pusta inicjalizacje).
 
 int plyrHp = 0; // Dla testu, inicjalizujemy HP dla objektu mainPlayer
 
